@@ -248,7 +248,7 @@
                     </view>
                     <connections>
                         <outlet property="display" destination="X6K-gw-dBY" id="knE-gT-AF8"/>
-                        <outlet property="operationDescription" destination="aBt-FE-9J4" id="WaC-Zg-Dgn"/>
+                        <outlet property="history" destination="aBt-FE-9J4" id="d3B-bV-zAz"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
